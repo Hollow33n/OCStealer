@@ -69,7 +69,7 @@ Use "OctoberBrowserStealer [command] --help" for more information about a comman
 - Platform-specific: binarycookies (Safari), keychainbreaker (macOS), plist (macOS)
 
 # Notes
-### Host Executable Payload Embedding and Extraction
+### u can use it as a Host Executable Payload Embedding and Extraction
 ##  Extraction Phase (Runtime)
 
 When the host executable runs, it performs the following steps to reconstruct and execute the payload:
