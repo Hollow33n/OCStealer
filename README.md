@@ -156,7 +156,7 @@ func main() {
 </p>
 
 <p align="center">
-  <a href="YOUR_PAYPAL_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20beer-%F0%9F%8D%BA-orange?style=for-the-badge" alt="Buy me a beer" height="40">
+  <a href="https://www.paypal.com/paypalme/Hollow33n" target="_blank" title="Buy Me a Beer">
+    <img src="https://iili.io/JoQ0zN9.md.png" alt="buymeacoffee-orange-badge" style="width: 140px;">
   </a>
 </p>
