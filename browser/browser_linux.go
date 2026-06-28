@@ -1,0 +1,82 @@
+//go:build linux
+
+package browser
+
+import (
+	"src/crypto/keyretriever"
+	"src/types"
+)
+
+func platformBrowsers() []types.BrowserConfig {
+	return []types.BrowserConfig{
+		{
+			Key:           "chrome",
+			Name:          chromeName,
+			Kind:          types.Chromium,
+			KeychainLabel: "Chrome Safe Storage",
+			UserDataDir:   homeDir + "/.config/google-chrome",
+		},
+		{
+			Key:           "edge",
+			Name:          edgeName,
+			Kind:          types.Chromium,
+			KeychainLabel: "Chromium Safe Storage",
+			UserDataDir:   homeDir + "/.config/microsoft-edge",
+		},
+		{
+			Key:           "chromium",
+			Name:          chromiumName,
+			Kind:          types.Chromium,
+			KeychainLabel: "Chromium Safe Storage",
+			UserDataDir:   homeDir + "/.config/chromium",
+		},
+		{
+			Key:           "chrome-beta",
+			Name:          chromeBetaName,
+			Kind:          types.Chromium,
+			KeychainLabel: "Chrome Safe Storage",
+			UserDataDir:   homeDir + "/.config/google-chrome-beta",
+		},
+		{
+			Key:           "opera",
+			Name:          operaName,
+			Kind:          types.ChromiumOpera,
+			KeychainLabel: "Chromium Safe Storage",
+			UserDataDir:   homeDir + "/.config/opera",
+		},
+		{
+			Key:           "vivaldi",
+			Name:          vivaldiName,
+			Kind:          types.Chromium,
+			KeychainLabel: "Chrome Safe Storage",
+			UserDataDir:   homeDir + "/.config/vivaldi",
+		},
+		{
+			Key:           "brave",
+			Name:          braveName,
+			Kind:          types.Chromium,
+			KeychainLabel: "Brave Safe Storage",
+			UserDataDir:   homeDir + "/.config/BraveSoftware/Brave-Browser",
+		},
+		{
+			Key:         "firefox",
+			Name:        firefoxName,
+			Kind:        types.Firefox,
+			UserDataDir: homeDir + "/.mozilla/firefox",
+		},
+	}
+}
+
+// newPlatformInjector returns a closure that wires the Linux Chromium master-key retrievers into
+// each Browser. Linux has two tiers: V10 uses the "peanuts" hardcoded password (kV10Key); V11
+// uses the D-Bus Secret Service keyring (kV11Key). V20 is nil — App-Bound Encryption is Windows-
+// only. Both V10 and V11 run independently so a profile carrying mixed cipher prefixes decrypts
+// both tiers.
+func newPlatformInjector(_ PickOptions) func(Browser) {
+	retrievers := keyretriever.DefaultRetrievers()
+	return func(b Browser) {
+		if km, ok := b.(KeyManager); ok {
+			km.SetKeyRetrievers(retrievers)
+		}
+	}
+}

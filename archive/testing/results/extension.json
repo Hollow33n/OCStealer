@@ -1,0 +1,182 @@
+[
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "name": "Google Docs hors connexion",
+    "id": "ghbmnnjooekpmoecnnnilnnbdlolhkhi",
+    "description": "Modifiez, créez et consultez des documents, feuilles de calcul et présentations, sans accès à Internet.",
+    "version": "1.104.1",
+    "homepage_url": "",
+    "enabled": true
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "name": "Next.js React2shell detector",
+    "id": "jfpgllobdogmajifmjdmcjamcaifcfbf",
+    "description": "detects vulnerable Next.js versions that are susceptible to React2shell attacks locally in the browser",
+    "version": "0.0.1",
+    "homepage_url": "",
+    "enabled": true
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "name": "React2Shell 취약점 스캐너",
+    "id": "mkcncakmlchdclfoipcohepefonmdlih",
+    "description": "CVE-2025-55182 (React2Shell) 취약점을 탐지하는 보안 도구",
+    "version": "1.0.0",
+    "homepage_url": "",
+    "enabled": true
+  },
+  {
+    "browser": "Microsoft Edge",
+    "profile": "Default",
+    "name": "Google Docs Offline",
+    "id": "ghbmnnjooekpmoecnnnilnnbdlolhkhi",
+    "description": "Edit, create, and view your documents, spreadsheets, and presentations — all without internet access.",
+    "version": "1.104.1",
+    "homepage_url": "",
+    "enabled": false
+  },
+  {
+    "browser": "Brave",
+    "profile": "Default",
+    "name": "Ghostery AdBlocker for Privacy",
+    "id": "mlomiejdfkolichcflejclcbmpeaniij",
+    "description": "Fast, private, and ad-free browsing you can trust!",
+    "version": "10.5.35",
+    "homepage_url": "",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "FoxyProxy",
+    "id": "foxyproxy@eric.h.jung",
+    "description": "Easy to use advanced Proxy Management tool for everyone",
+    "version": "9.2",
+    "homepage_url": "https://getfoxyproxy.org/",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "Shodan",
+    "id": "firefox-extension@shodan.io",
+    "description": "The Shodan plugin tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.",
+    "version": "1.1.1",
+    "homepage_url": "",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "Multi URL Opener",
+    "id": "RT@Multi_Url_Opener",
+    "description": "Open multiple URLs at the same time with one click.",
+    "version": "1.13",
+    "homepage_url": "",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "Image Metadata Viewer",
+    "id": "imgmetadatainspector@jorticus.com",
+    "description": "View EXIF/meta data of images",
+    "version": "0.2.1",
+    "homepage_url": "",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "Dark Reader",
+    "id": "addon@darkreader.org",
+    "description": "Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.",
+    "version": "4.9.125",
+    "homepage_url": "",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "Wappalyzer - Technology profiler",
+    "id": "wappalyzer@crunchlabz.com",
+    "description": "Identify web technologies",
+    "version": "6.12.2",
+    "homepage_url": "https://www.wappalyzer.com/",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "Random User-Agent (Switcher)",
+    "id": "{b43b974b-1d3a-4232-b226-eaa2ac6ebb69}",
+    "description": "Automatically change the user agent after specified period of time to a randomly selected one",
+    "version": "4.3.2",
+    "homepage_url": "https://random-user-agent.com/",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "SandVPN",
+    "id": "sandvpn_@sandvpn.com",
+    "description": "Fast, Secure, Stable",
+    "version": "9.5.0",
+    "homepage_url": "",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "Ghostery AdBlocker for Privacy",
+    "id": "firefox@ghostery.com",
+    "description": "Fast, private, and ad-free browsing you can trust!",
+    "version": "10.5.44",
+    "homepage_url": "",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "WhatRuns",
+    "id": "{66d854c2-fd1b-4857-bd0a-7d220e4834da}",
+    "description": "Discover what runs a website. Frameworks, Analytics Tools, Wordpress Plugins, Fonts - you name it.",
+    "version": "1.9.0",
+    "homepage_url": "https://www.whatruns.com/?source=plugin",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "BuiltWith",
+    "id": "gary@builtwith.com",
+    "description": "BuiltWith is a web site profiler tool. Upon looking up a page, BuiltWith returns a list of all the technologies in use on that page.",
+    "version": "2.5",
+    "homepage_url": "https://builtwith.com",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "RSC Sentinel",
+    "id": "{d2b9c4f1-1f3e-4c1e-b9b7-3c91b3d1a2fa}",
+    "description": "Detects React Server Components (RSC) and Next.js App Router fingerprints.",
+    "version": "1.1",
+    "homepage_url": "",
+    "enabled": true
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "name": "New Tab",
+    "id": "newtab@mozilla.org",
+    "description": "",
+    "version": "153.0.20260521.220634",
+    "homepage_url": "",
+    "enabled": true
+  }
+]
