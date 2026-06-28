@@ -1,0 +1,1482 @@
+[
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://vx-underground.org/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\BlackGuard Stealer Builder.7z",
+    "mime_type": "application/x-7z-compressed",
+    "total_bytes": 33168450,
+    "start_time": "2026-05-29T10:12:40.585328Z",
+    "end_time": "2026-05-29T10:12:44.093276Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://vx-underground.org/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\Black Stealer Builder.b.7z",
+    "mime_type": "application/x-7z-compressed",
+    "total_bytes": 444672,
+    "start_time": "2026-05-29T10:12:37.617751Z",
+    "end_time": "2026-05-29T10:12:38.774512Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://github.com/S7ee7/Python-Hacking-Tools",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\Python-Hacking-Tools-main.zip",
+    "mime_type": "application/x-zip-compressed",
+    "total_bytes": 19371,
+    "start_time": "2026-05-26T12:19:07.846961Z",
+    "end_time": "2026-05-26T12:19:08.877739Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://github.com/ebrasha/CVE-2024-28000/releases/tag/4.4",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\win-x64.zip",
+    "mime_type": "application/x-zip-compressed",
+    "total_bytes": 29946222,
+    "start_time": "2026-05-26T10:35:00.728005Z",
+    "end_time": "2026-05-26T10:35:04.552754Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://github.com/X1r0z/JNDIMap/releases",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\JNDIMap-0.0.5.jar",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 53649179,
+    "start_time": "2026-05-26T10:02:55.206624Z",
+    "end_time": "2026-05-26T10:02:59.321116Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://github.com/projectdiscovery/nuclei-templates/releases/tag/v10.4.3",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\nuclei-templates-10.4.3.zip",
+    "mime_type": "application/x-zip-compressed",
+    "total_bytes": 0,
+    "start_time": "2026-05-25T17:13:29.242436Z",
+    "end_time": "0001-01-01T00:00:00Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.8.0",
+    "target_path": "",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 40835056,
+    "start_time": "2026-05-25T11:23:02.603447Z",
+    "end_time": "0001-01-01T00:00:00Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "http://10.10.10.145/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\code.zip",
+    "mime_type": "application/x-zip-compressed",
+    "total_bytes": 10,
+    "start_time": "2026-05-05T19:49:41.60236Z",
+    "end_time": "2026-05-05T19:49:43.654658Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "http://10.10.10.145/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\source_code (1).zip",
+    "mime_type": "application/x-zip-compressed",
+    "total_bytes": 3475,
+    "start_time": "2026-05-05T19:45:22.04279Z",
+    "end_time": "2026-05-05T19:45:24.334874Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "http://10.10.10.145/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\source_code.zip",
+    "mime_type": "application/x-zip-compressed",
+    "total_bytes": 3475,
+    "start_time": "2026-05-05T19:43:26.018432Z",
+    "end_time": "2026-05-05T19:43:28.526459Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "http://10.10.10.145/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\submissions.zip",
+    "mime_type": "application/x-zip-compressed",
+    "total_bytes": 822,
+    "start_time": "2026-05-05T19:12:32.579747Z",
+    "end_time": "0001-01-01T00:00:00Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://vipserver.liiivideo.com/d/l0x9bp33h32t_h",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\[Cimawbas.Tv]Snowden_-_ (1).mp4",
+    "mime_type": "video/mp4",
+    "total_bytes": 1342091805,
+    "start_time": "2026-04-14T16:52:07.772143Z",
+    "end_time": "0001-01-01T00:00:00Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://vipserver.liiivideo.com/d/l0x9bp33h32t_h",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\[Cimawbas.Tv]Snowden_-_.mp4",
+    "mime_type": "video/mp4",
+    "total_bytes": 1342091805,
+    "start_time": "2026-04-14T16:51:32.719278Z",
+    "end_time": "0001-01-01T00:00:00Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://www.microsoft.com/fr-fr/software-download/windows10",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\MediaCreationTool_22H2 (1).exe",
+    "mime_type": "application/x-msdownload",
+    "total_bytes": 19463448,
+    "start_time": "2026-04-12T11:22:36.591191Z",
+    "end_time": "2026-04-12T11:22:37.142566Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://www.microsoft.com/en-us/software-download/windows10",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\MediaCreationTool_22H2.exe",
+    "mime_type": "application/x-msdownload",
+    "total_bytes": 19463448,
+    "start_time": "2026-04-12T11:22:19.243705Z",
+    "end_time": "2026-04-12T11:22:22.411982Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://www.vulnhub.com/entry/photographer-1,519/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\Photographer.ova",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 2816762368,
+    "start_time": "2026-04-12T10:34:09.817773Z",
+    "end_time": "2026-04-12T10:55:35.500352Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://www.vulnhub.com/entry/moneyheist-catch-us-if-you-can,605/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\Money-Heist-catch-me-if-you-can.ova",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 884435456,
+    "start_time": "2026-04-12T10:27:22.332485Z",
+    "end_time": "2026-04-12T10:48:56.362388Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://www.vulnhub.com/entry/cybox-11,607/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\cybox-1.1.ova",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 960186368,
+    "start_time": "2026-04-12T10:26:58.429301Z",
+    "end_time": "2026-04-12T10:33:06.885656Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://www.vulnhub.com/entry/hogwarts-bellatrix,609/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\Bellatrix.ova",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 4393849344,
+    "start_time": "2026-04-12T10:26:54.826188Z",
+    "end_time": "2026-04-12T11:06:50.425502Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://www.vulnhub.com/entry/empire-lupinone,750/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\01-Empire-Lupin-One.zip",
+    "mime_type": "application/x-zip-compressed",
+    "total_bytes": 966033832,
+    "start_time": "2026-04-12T10:26:50.703562Z",
+    "end_time": "2026-04-12T10:30:05.875767Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://discord.com/download",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\DiscordSetup.exe",
+    "mime_type": "application/x-msdownload",
+    "total_bytes": 122796984,
+    "start_time": "2026-04-08T16:24:10.962886Z",
+    "end_time": "2026-04-08T16:24:24.991454Z"
+  },
+  {
+    "browser": "Chrome",
+    "profile": "Default",
+    "url": "https://vx-underground.org/Samples/OpenSourceMalware/https-emailjs/Samples",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\952aaf0ce09b609fc32c882599a693dc9a554f10dbf0b35fc8bc35fd23e4f9a3.7z",
+    "mime_type": "application/x-7z-compressed",
+    "total_bytes": 12177,
+    "start_time": "2026-04-07T11:02:59.46004Z",
+    "end_time": "2026-04-07T11:03:02.588449Z"
+  },
+  {
+    "browser": "Microsoft Edge",
+    "profile": "Default",
+    "url": "https://github.com/microsoft/terminal",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\Microsoft.WindowsTerminalCanary_latest_x64.zip",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 12570274,
+    "start_time": "2026-04-07T08:24:33.250705Z",
+    "end_time": "2026-04-07T08:24:51.142905Z"
+  },
+  {
+    "browser": "Microsoft Edge",
+    "profile": "Default",
+    "url": "https://aka.ms/terminal-canary-installer",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\Microsoft.WindowsTerminalCanary (1).appinstaller",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 1759,
+    "start_time": "2026-04-07T08:23:04.670251Z",
+    "end_time": "2026-04-07T08:23:09.103177Z"
+  },
+  {
+    "browser": "Microsoft Edge",
+    "profile": "Default",
+    "url": "https://aka.ms/terminal-canary-installer",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\Microsoft.WindowsTerminalCanary.appinstaller",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 1759,
+    "start_time": "2026-04-07T08:23:02.506288Z",
+    "end_time": "2026-04-07T08:23:08.37111Z"
+  },
+  {
+    "browser": "Microsoft Edge",
+    "profile": "Default",
+    "url": "https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\SysinternalsSuite.zip",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 175915534,
+    "start_time": "2026-04-07T08:21:20.908722Z",
+    "end_time": "2026-04-07T08:23:09.943819Z"
+  },
+  {
+    "browser": "Microsoft Edge",
+    "profile": "Default",
+    "url": "https://www.firefox.com/en-US/thanks/",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\Firefox Installer.exe",
+    "mime_type": "application/x-msdos-program",
+    "total_bytes": 500576,
+    "start_time": "2026-04-07T08:18:41.00011Z",
+    "end_time": "2026-04-07T08:18:51.948935Z"
+  },
+  {
+    "browser": "Microsoft Edge",
+    "profile": "Default",
+    "url": "https://portswigger.net/burp/releases/professional-community-2026-2-4?requestededition=community\u0026requestedplatform=",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\burpsuite_community_windows-x64_v2026_2_4.exe",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 393974800,
+    "start_time": "2026-04-07T08:18:29.644919Z",
+    "end_time": "2026-04-07T08:23:41.236039Z"
+  },
+  {
+    "browser": "Microsoft Edge",
+    "profile": "Default",
+    "url": "https://brave.com/download/",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\BraveBrowserSetup-BRV011.exe",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 1277280,
+    "start_time": "2026-04-07T08:15:09.0331Z",
+    "end_time": "2026-04-07T08:15:17.577416Z"
+  },
+  {
+    "browser": "Microsoft Edge",
+    "profile": "Default",
+    "url": "https://www.systeminformer.com/downloads",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\systeminformer-3.2.25011-release-setup.exe",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 23750192,
+    "start_time": "2026-04-07T08:10:35.865267Z",
+    "end_time": "2026-04-07T08:11:22.596338Z"
+  },
+  {
+    "browser": "Microsoft Edge",
+    "profile": "Default",
+    "url": "https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community\u0026channel=Stable\u0026version=VS18\u0026source=VSLandingPage\u0026cid=2500\u0026passive=false",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\VisualStudioSetup.exe",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 4454944,
+    "start_time": "2026-04-07T08:05:19.875215Z",
+    "end_time": "2026-04-07T08:05:32.727927Z"
+  },
+  {
+    "browser": "Brave",
+    "profile": "Default",
+    "url": "https://bysesukior.com/api/videos/stream/IhsLTakQR0SO9PQtKVN-anE2-VHd5Ow0YBqsTmoROeR_kyk92wMpEv8xiJniUSWZ737H2GvyHLQTPXCtqRmCkgMTUYXy7XoxuJA1JYGLTYHFtFcpeok9jaJYusrlsxz2yu6EhuSTMhf_AKAGnya5HMQTsfG6Puf8It8ostCVNxqhOmiJT5n3CLuQC9Y_BuNpRR71XAwhYjs_l26ICoPa8o_I-f0ity4xs8BQT80ix_mqalR1zXkzjdydN7nwDNLY2jX9H4_oBQaJYDKR-g2IcTLorPtd8_xu_ayU6Rcg0IiSL2Miaay60SsYiYJNQZGtJcjznaMzbuNqW-Q4WYpmcTh_uanA2K_fBFzuvOCQjF6ZPNCgBzKOjoBa2Yqa3I-9Jrv7VjPLTkQS2NqnL6iLpJ0HFHbV_9FDlwjKd72nP4UmdIKdI4pGwGxP2_YoJrWR3i3nDPpHPJud10AhTPoTVQuVtg3OWF-_muh5A24CzvvaSFPqSZS9eJbNZvl0TtxbcxA2Cj-MVVWiRYdOGSIwAZvIM5gKmI9YE0rbpukwBUv7yEB3J7VQvy5TibmsWXAJ7RzdIMkT-xJk",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\Snowden_2016_1080p_MovizHome_mkv.mp4",
+    "mime_type": "video/mp4",
+    "total_bytes": 1625012978,
+    "start_time": "2026-04-14T16:58:48.371985Z",
+    "end_time": "2026-04-14T17:54:16.989801Z"
+  },
+  {
+    "browser": "Brave",
+    "profile": "Default",
+    "url": "https://www.vulnhub.com/entry/ha-narak,569/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\narak.ova",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 829423616,
+    "start_time": "2026-04-12T10:32:04.846902Z",
+    "end_time": "2026-04-12T10:45:16.233044Z"
+  },
+  {
+    "browser": "Brave",
+    "profile": "Default",
+    "url": "https://www.vulnhub.com/entry/ha-sherlock,580/",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\vulnhub\\sherlock.ova",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 864629248,
+    "start_time": "2026-04-12T10:31:38.259702Z",
+    "end_time": "2026-04-12T10:42:09.443383Z"
+  },
+  {
+    "browser": "Brave",
+    "profile": "Default",
+    "url": "https://updown.cam/domo51o6nav3",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\Baki-dou - [1080p].rar",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 6364049133,
+    "start_time": "2026-04-09T14:38:26.988437Z",
+    "end_time": "0001-01-01T00:00:00Z"
+  },
+  {
+    "browser": "Brave",
+    "profile": "Default",
+    "url": "https://updown.cam/knny7ply8t3n",
+    "target_path": "C:\\Users\\Hollow\\Desktop\\Record.of.Ragnarok.S03.1080p.NF.WEB-DL.rar",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 7470977691,
+    "start_time": "2026-04-09T14:30:13.344916Z",
+    "end_time": "2026-04-09T14:41:00.603459Z"
+  },
+  {
+    "browser": "Brave",
+    "profile": "Default",
+    "url": "https://veryapk.site/Please-Wait.php",
+    "target_path": "",
+    "mime_type": "application/x-rar-compressed",
+    "total_bytes": 390304030,
+    "start_time": "2026-04-07T17:37:49.504439Z",
+    "end_time": "0001-01-01T00:00:00Z"
+  },
+  {
+    "browser": "Brave",
+    "profile": "Default",
+    "url": "https://www.win-rar.com/postdownload.html?\u0026L=0",
+    "target_path": "",
+    "mime_type": "application/octet-stream",
+    "total_bytes": 3820168,
+    "start_time": "2026-04-07T17:37:31.176393Z",
+    "end_time": "0001-01-01T00:00:00Z"
+  },
+  {
+    "browser": "Brave",
+    "profile": "Default",
+    "url": "https://www.win-rar.com/postdownload.html?\u0026L=0",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\winrar-x64-720.exe",
+    "mime_type": "application/x-msdownload",
+    "total_bytes": 3820168,
+    "start_time": "2026-04-07T08:42:44.372435Z",
+    "end_time": "2026-04-07T08:42:51.708119Z"
+  },
+  {
+    "browser": "Brave",
+    "profile": "Default",
+    "url": "https://www.kali.org/get-kali/#kali-virtual-machines",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\kali-linux-2026.1-vmware-amd64.7z",
+    "mime_type": "application/x-7z-compressed",
+    "total_bytes": 3828905267,
+    "start_time": "2026-04-07T08:37:02.934361Z",
+    "end_time": "2026-04-07T08:40:33.450616Z"
+  },
+  {
+    "browser": "Brave",
+    "profile": "Default",
+    "url": "https://veryapk.site/Please-Wait.php",
+    "target_path": "C:\\Users\\Hollow\\Downloads\\_Getintopc.com_VMware_InstallBuilder_Enterprise_2024-24.11.rar",
+    "mime_type": "application/x-rar-compressed",
+    "total_bytes": 390304030,
+    "start_time": "2026-04-07T08:36:27.718183Z",
+    "end_time": "2026-04-07T08:38:33.580274Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://candidaturesbac.men.gov.ma/DemandeCandidature/TelechargerConvocationBac?hashId=2y8ZGCohqfImqjY35hJNwg%3D%3D",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/ConvocationExamNationale_.pdf",
+    "mime_type": "",
+    "total_bytes": 601536,
+    "start_time": "2026-05-26T12:24:25.913Z",
+    "end_time": "2026-05-26T12:24:26.319Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://mdtalks.ma/wp-content/plugins/litespeed-cache/lang/litespeed-cache.pot",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/litespeed-cache.pot",
+    "mime_type": "",
+    "total_bytes": 156004,
+    "start_time": "2026-05-26T10:54:09.918Z",
+    "end_time": "2026-05-26T10:54:10.668Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://10.10.10.145/index.php",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/index.php",
+    "mime_type": "",
+    "total_bytes": 11506,
+    "start_time": "2026-05-26T08:41:26.806Z",
+    "end_time": "2026-05-26T08:41:26.749Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://10.10.10.145/?download_source=1",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/code(1).zip",
+    "mime_type": "",
+    "total_bytes": 10,
+    "start_time": "2026-05-26T08:27:37.652Z",
+    "end_time": "2026-05-26T08:27:38.071Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://file.freestorage-04.bond/files/2026/5/25/e183cac5-570f-414b-8523-1084efb40ec5/_subs?srl=JmMZPtEdu4GwwTQogElZfQ\u0026exp=1779772000",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/_subs",
+    "mime_type": "",
+    "total_bytes": 6760,
+    "start_time": "2026-05-25T21:06:58.295Z",
+    "end_time": "2026-05-25T21:06:58.247Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://ozonexpress.ma/wp-content/themes/outgrid/error_log",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/error_log",
+    "mime_type": "",
+    "total_bytes": 2619,
+    "start_time": "2026-05-18T11:03:23.232Z",
+    "end_time": "2026-05-18T11:03:23.16Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://ec.ccm2.net/www.commentcamarche.net/download/files/Recover-Data-FAT-NTFS2.0.exe",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/Recover-Data-FAT-NTFS2.0.exe",
+    "mime_type": "",
+    "total_bytes": 3089760,
+    "start_time": "2026-05-11T12:20:08.697Z",
+    "end_time": "2026-05-11T12:20:09.732Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://win.cleverfiles.com/disk-drill-win.exe",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/disk-drill-win.exe",
+    "mime_type": "",
+    "total_bytes": 53840896,
+    "start_time": "2026-05-11T12:08:10.634Z",
+    "end_time": "2026-05-11T12:08:15.235Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download-fr.wondershare.com/inst/recoverit_setup_full4159.exe",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/Recoverit_Installer.exe",
+    "mime_type": "",
+    "total_bytes": 2219504,
+    "start_time": "2026-05-11T12:00:14.003Z",
+    "end_time": "2026-05-11T12:00:14.365Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://page-perso.enp.edu.dz/?download_source=1",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/code.zip",
+    "mime_type": "",
+    "total_bytes": 7085,
+    "start_time": "2026-05-05T20:24:19.94Z",
+    "end_time": "2026-05-05T20:24:21.772Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://10.10.10.145/?download_zip=1",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/submissions.zip",
+    "mime_type": "",
+    "total_bytes": 1582,
+    "start_time": "2026-05-05T19:31:00.961Z",
+    "end_time": "2026-05-05T19:31:00.979Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://www.garmany.com/wp-admin/admin.php?page=MEC-ix\u0026tab=MEC-export\u0026mec-ix-action=export-events\u0026format=csv",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/mec-events-dc8b491527b1b811a11d4d87248420e7.csv",
+    "mime_type": "",
+    "total_bytes": 22602,
+    "start_time": "2026-05-04T12:47:17.609Z",
+    "end_time": "2026-05-04T12:47:17.477Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/leonjza/wordpress-shell/zip/refs/heads/master",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/wordpress-shell-master.zip",
+    "mime_type": "",
+    "total_bytes": 4991,
+    "start_time": "2026-04-27T11:46:09.215Z",
+    "end_time": "2026-04-27T11:46:09.826Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/kylepott/Conwell-Quotes/zip/refs/heads/master",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/Conwell-Quotes-master.zip",
+    "mime_type": "",
+    "total_bytes": 32097,
+    "start_time": "2026-04-27T11:04:48.602Z",
+    "end_time": "2026-04-27T11:04:53.594Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://connect.aui.ma/_next/image?w=16\u0026q=10\u0026url=https://i.pinimg.com/736x/4f/e1/93/4fe193f9e3dadfb704777f4a50a2f696.jpg",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/4fe193f9e3dadfb704777f4a50a2f696.jpeg",
+    "mime_type": "",
+    "total_bytes": 333,
+    "start_time": "2026-04-20T12:19:26.833Z",
+    "end_time": "2026-04-20T12:19:26.765Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://connect.aui.ma/_next/image?w=16\u0026q=10\u0026url=https://boldly-rational-letty.ngrok-free.dev/image.jpg",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/image.jpeg",
+    "mime_type": "",
+    "total_bytes": 333,
+    "start_time": "2026-04-20T11:38:08.003Z",
+    "end_time": "2026-04-20T11:38:07.931Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://macc26.sec-dojo.com/Reglement-MACC2026-Qualification-1.pdf",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/Reglement-MACC2026-Qualification-1.pdf",
+    "mime_type": "",
+    "total_bytes": 267984,
+    "start_time": "2026-04-18T16:00:13.904Z",
+    "end_time": "2026-04-18T16:00:14.253Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://acatalogue2.biblio.enp.edu.dz/edit.php",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/Procedure_30.xlsx",
+    "mime_type": "",
+    "total_bytes": 6474,
+    "start_time": "2026-04-18T15:06:35.81Z",
+    "end_time": "2026-04-18T15:06:36.232Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://arts.misuratau.edu.ly/admin.zip",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/admin.zip",
+    "mime_type": "",
+    "total_bytes": 271488,
+    "start_time": "2026-04-18T13:46:00.356Z",
+    "end_time": "2026-04-18T13:46:01.401Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://archivage.anrur.gov.ma/anrur.zip",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/anrur.zip",
+    "mime_type": "",
+    "total_bytes": 5761492,
+    "start_time": "2026-04-18T13:31:35.754Z",
+    "end_time": "2026-04-18T13:31:38.376Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/19416551/98733f94-e1f1-4576-b00b-c6808b46bfb0?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-18T13%3A57%3A41Z\u0026rscd=attachment%3B+filename%3DDB.Browser.for.SQLite-v3.13.1-win64.msi\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-18T12%3A56%3A47Z\u0026ske=2026-04-18T13%3A57%3A41Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=6K%2B3rL%2BcZ7lDgXI0oaUrRQXDTuv6pLkGO6SbeI6cZic%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NjUyMDQ1MCwibmJmIjoxNzc2NTE4NjUwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.v4nxkpCsv_9DjiS_pM_S3flwcYx_XQBmvjrdTwfVfDY\u0026response-content-disposition=attachment%3B%20filename%3DDB.Browser.for.SQLite-v3.13.1-win64.msi\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/DB.Browser.for.SQLite-v3.13.1-win64.msi",
+    "mime_type": "",
+    "total_bytes": 19857408,
+    "start_time": "2026-04-18T13:24:13.603Z",
+    "end_time": "2026-04-18T13:24:15.167Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://inloop.github.io/sqlite-viewer/examples/Chinook_Sqlite.sqlite",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/Chinook_Sqlite(1).sqlite",
+    "mime_type": "",
+    "total_bytes": 1067008,
+    "start_time": "2026-04-18T13:23:37.031Z",
+    "end_time": "2026-04-18T13:23:37.515Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://altarbia.zu.edu.ly/uploads.zip",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/uploads(1).zip",
+    "mime_type": "",
+    "total_bytes": 12105340,
+    "start_time": "2026-04-18T12:55:39.144Z",
+    "end_time": "2026-04-18T12:56:00.531Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://altalaa.edu.ly/altalaa.zip",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/altalaa.zip",
+    "mime_type": "",
+    "total_bytes": 35146627,
+    "start_time": "2026-04-18T12:46:04.208Z",
+    "end_time": "2026-04-18T12:46:34.752Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://aliradaaloula.edu.ly/test.rar",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/test.rar",
+    "mime_type": "",
+    "total_bytes": 19112402,
+    "start_time": "2026-04-18T12:38:38.341Z",
+    "end_time": "2026-04-18T12:38:47.429Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://aladel.gov.ly/aladel.gov.ly.zip",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/aladel.gov.ly.zip",
+    "mime_type": "",
+    "total_bytes": 12871305487,
+    "start_time": "2026-04-18T12:38:09.859Z",
+    "end_time": "2026-04-18T13:13:41.91Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://adv.hiosatz.edu.ly/public_html.zip",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/public_html.zip",
+    "mime_type": "",
+    "total_bytes": 107327110,
+    "start_time": "2026-04-18T11:56:36.013Z",
+    "end_time": "2026-04-18T11:57:01.608Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://adv.himstj.edu.ly/uploads.zip",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/uploads.zip",
+    "mime_type": "",
+    "total_bytes": 16305452,
+    "start_time": "2026-04-18T11:55:11.946Z",
+    "end_time": "2026-04-18T11:55:16.399Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://mrie.enp.edu.dz/wp-config.php.old",
+    "target_path": "file:///C:/Users/Hollow/Desktop/Downloads/wp-config.php.old",
+    "mime_type": "",
+    "total_bytes": 3292,
+    "start_time": "2026-04-18T10:05:54.951Z",
+    "end_time": "2026-04-18T10:05:54.896Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/31311037/808e0b55-4eeb-4507-a22f-61fd981c6770?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-16T11%3A50%3A18Z\u0026rscd=attachment%3B+filename%3Dchisel_1.11.5_windows_amd64.zip\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-16T10%3A50%3A08Z\u0026ske=2026-04-16T11%3A50%3A18Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=AY8YqaHrXwIA%2FCS9FAGbBzHS6gss66dS8tXHJNtBdRM%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NjMzNzkxMywibmJmIjoxNzc2MzM3NjEzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.I2y8nKt-xdbfso3yWrIrgCTwZJAld_gMdTVKH3iuDII\u0026response-content-disposition=attachment%3B%20filename%3Dchisel_1.11.5_windows_amd64.zip\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///H:/vulnhub/chisel_1.11.5_windows_amd64.zip",
+    "mime_type": "",
+    "total_bytes": 4444123,
+    "start_time": "2026-04-16T11:06:59.425Z",
+    "end_time": "2026-04-16T11:21:24.857Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/31311037/1de2b3f7-275a-47f5-851c-19a083b35456?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-16T11%3A50%3A43Z\u0026rscd=attachment%3B+filename%3Dchisel_1.11.5_linux_amd64.gz\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-16T10%3A50%3A17Z\u0026ske=2026-04-16T11%3A50%3A43Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=SXiPBueJjA8cm%2FuqJqtDs1d6WDlQTfD2Q6MA6vlsqOY%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NjMzNzg5MywibmJmIjoxNzc2MzM3NTkzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.JtfMAWVUyHfzc7jpbcDHnOMihgSQdEayxdXCEPpsLM8\u0026response-content-disposition=attachment%3B%20filename%3Dchisel_1.11.5_linux_amd64.gz\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///H:/vulnhub/chisel_1.11.5_linux_amd64.gz",
+    "mime_type": "",
+    "total_bytes": 4309559,
+    "start_time": "2026-04-16T11:06:37.531Z",
+    "end_time": "2026-04-16T11:06:54.631Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/metasploitable/Metasploitable.zip",
+    "target_path": "file:///H:/vulnhub/Metasploitable.zip",
+    "mime_type": "",
+    "total_bytes": 571433549,
+    "start_time": "2026-04-16T11:05:36.376Z",
+    "end_time": "2026-04-16T11:08:34.695Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/blackmarket/BlackMarket.zip",
+    "target_path": "file:///H:/vulnhub/BlackMarket.zip",
+    "mime_type": "",
+    "total_bytes": 1011386280,
+    "start_time": "2026-04-16T11:05:29.511Z",
+    "end_time": "2026-04-16T11:09:09.219Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/hacksudo/hacksudo-search.zip",
+    "target_path": "file:///H:/vulnhub/hacksudo-search.zip",
+    "mime_type": "",
+    "total_bytes": 894047615,
+    "start_time": "2026-04-16T11:01:24.565Z",
+    "end_time": "2026-04-16T11:09:38.229Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/momentum/Momentum2.ova",
+    "target_path": "file:///H:/vulnhub/Momentum2.ova",
+    "mime_type": "",
+    "total_bytes": 731631104,
+    "start_time": "2026-04-16T10:59:38.324Z",
+    "end_time": "2026-04-16T11:00:51.818Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/funbox/FunboxGaoKao.ova",
+    "target_path": "file:///H:/vulnhub/FunboxGaoKao.ova",
+    "mime_type": "",
+    "total_bytes": 1291060224,
+    "start_time": "2026-04-16T10:51:52.247Z",
+    "end_time": "2026-04-16T11:03:56.589Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/vulncms/VulnCMS.ova",
+    "target_path": "file:///H:/vulnhub/VulnCMS.ova",
+    "mime_type": "",
+    "total_bytes": 1500287488,
+    "start_time": "2026-04-16T10:51:48.438Z",
+    "end_time": "2026-04-16T10:57:12.577Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/hackersblog/Hackers-Blog.ova",
+    "target_path": "file:///H:/vulnhub/Hackers-Blog.ova",
+    "mime_type": "",
+    "total_bytes": 768958464,
+    "start_time": "2026-04-16T10:51:44.54Z",
+    "end_time": "2026-04-16T10:58:06.193Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/pwnthetron/Pwn-the-Tron.ova",
+    "target_path": "file:///H:/vulnhub/Pwn-the-Tron.ova",
+    "mime_type": "",
+    "total_bytes": 2442101248,
+    "start_time": "2026-04-16T10:51:36.177Z",
+    "end_time": "2026-04-16T11:13:56.469Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/hackmeplease/Hack_Me_Please.rar",
+    "target_path": "file:///H:/vulnhub/Hack_Me_Please.rar",
+    "mime_type": "",
+    "total_bytes": 4345676292,
+    "start_time": "2026-04-16T10:36:13.296Z",
+    "end_time": "2026-04-16T11:14:58.752Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/chronos/Chronos.ova",
+    "target_path": "file:///H:/vulnhub/Chronos.ova",
+    "mime_type": "",
+    "total_bytes": 1773423616,
+    "start_time": "2026-04-16T10:36:10.129Z",
+    "end_time": "2026-04-16T10:41:27.573Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/drippingblues/drippingblues.ova",
+    "target_path": "file:///H:/vulnhub/drippingblues.ova",
+    "mime_type": "",
+    "total_bytes": 2955636224,
+    "start_time": "2026-04-16T10:36:07.33Z",
+    "end_time": "2026-04-16T10:43:33.364Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/corrosion/Corrosion2.ova",
+    "target_path": "file:///H:/vulnhub/Corrosion2(1).ova",
+    "mime_type": "",
+    "total_bytes": 5414658048,
+    "start_time": "2026-04-16T10:36:03.01Z",
+    "end_time": "2026-04-16T10:46:04.452Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://www.vim.org/downloads/gvim_9.2.0000_x64.exe",
+    "target_path": "file:///C:/Users/Hollow/Downloads/gvim_9.2.0000_x64.exe",
+    "mime_type": "",
+    "total_bytes": 11654015,
+    "start_time": "2026-04-16T09:42:50.89Z",
+    "end_time": "2026-04-16T09:42:52.483Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://10.10.10.135/assets/web/assets/mobirise-icons2/mobirise2.woff",
+    "target_path": "file:///C:/Users/Hollow/Downloads/mobirise2(1).woff",
+    "mime_type": "",
+    "total_bytes": 25356,
+    "start_time": "2026-04-15T16:29:13.505Z",
+    "end_time": "2026-04-15T16:29:13.508Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://10.10.10.135/assets/web/assets/mobirise-icons2/mobirise2.ttf",
+    "target_path": "file:///C:/Users/Hollow/Downloads/mobirise2.ttf",
+    "mime_type": "",
+    "total_bytes": 25280,
+    "start_time": "2026-04-15T16:29:13.476Z",
+    "end_time": "2026-04-15T16:29:13.477Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://10.10.10.135/assets/web/assets/mobirise-icons2/mobirise2.eot",
+    "target_path": "file:///C:/Users/Hollow/Downloads/mobirise2.eot",
+    "mime_type": "",
+    "total_bytes": 25468,
+    "start_time": "2026-04-15T16:29:09.08Z",
+    "end_time": "2026-04-15T16:29:09.086Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/pjsacchet/Windows-RAT/zip/refs/heads/main",
+    "target_path": "file:///C:/Users/Hollow/Downloads/Windows-RAT-main.zip",
+    "mime_type": "",
+    "total_bytes": 52572,
+    "start_time": "2026-04-14T17:55:09.237Z",
+    "end_time": "2026-04-14T17:55:09.665Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/652878756/fe725800-4462-4f7f-91b9-5477a06609b3?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-14T18%3A23%3A28Z\u0026rscd=attachment%3B+filename%3DRDPCredentialStealer.zip\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-14T17%3A23%3A14Z\u0026ske=2026-04-14T18%3A23%3A28Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=qHYrqc0HpnXVy16lWXEgyvN60i156EwK27jl1ulaL3U%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NjE4ODE5OSwibmJmIjoxNzc2MTg3ODk5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.LrY5xWG6Fnr2aoR27WQ6duXXA0kt7nOrnkxltBR-W10\u0026response-content-disposition=attachment%3B%20filename%3DRDPCredentialStealer.zip\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///C:/Users/Hollow/Downloads/RDPCredentialStealer.zip",
+    "mime_type": "",
+    "total_bytes": 7604331,
+    "start_time": "2026-04-14T17:31:42.662Z",
+    "end_time": "2026-04-14T17:33:39.018Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://dist.torproject.org/torbrowser/15.0.9/tor-browser-windows-x86_64-portable-15.0.9.exe.asc",
+    "target_path": "file:///C:/Users/Hollow/Downloads/tor-browser-windows-x86_64-portable-15.0.9.exe.asc",
+    "mime_type": "",
+    "total_bytes": 833,
+    "start_time": "2026-04-14T14:06:42.936Z",
+    "end_time": "2026-04-14T14:06:42.952Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://dist.torproject.org/torbrowser/15.0.9/tor-browser-windows-x86_64-portable-15.0.9.exe",
+    "target_path": "file:///C:/Users/Hollow/Downloads/tor-browser-windows-x86_64-portable-15.0.9.exe",
+    "mime_type": "",
+    "total_bytes": 113274104,
+    "start_time": "2026-04-14T14:06:35.855Z",
+    "end_time": "2026-04-14T14:07:59.49Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/156681830/06f61819-dd1d-43f2-a31f-2edc908e9949?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-14T14%3A12%3A14Z\u0026rscd=attachment%3B+filename%3Dffuf_2.1.0_windows_amd64.zip\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-14T13%3A11%3A41Z\u0026ske=2026-04-14T14%3A12%3A14Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=9sz2Pqxr0z68s50WHbQ%2B34PGoBhIB1rLBjEJYzpcK68%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NjE3MzQyMSwibmJmIjoxNzc2MTczMTIxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.iB3TWbzGbkfr_Os0Qwi1JSkjGbveHc7_Y28dyz4mZp4\u0026response-content-disposition=attachment%3B%20filename%3Dffuf_2.1.0_windows_amd64.zip\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///C:/Users/Hollow/Downloads/ffuf_2.1.0_windows_amd64.zip",
+    "mime_type": "",
+    "total_bytes": 3597628,
+    "start_time": "2026-04-14T13:25:24.02Z",
+    "end_time": "2026-04-14T13:25:25.136Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://10.10.10.130/index.html.old",
+    "target_path": "file:///C:/Users/Hollow/Downloads/index.html.old",
+    "mime_type": "",
+    "total_bytes": 11321,
+    "start_time": "2026-04-13T18:02:50.759Z",
+    "end_time": "2026-04-13T18:02:50.721Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://192.168.159.134/images/3.jpg",
+    "target_path": "file:///C:/Users/Hollow/Desktop/3.png",
+    "mime_type": "",
+    "total_bytes": 3462226,
+    "start_time": "2026-04-13T12:38:45.016Z",
+    "end_time": "2026-04-13T12:38:45.016Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://192.168.159.134/images/666.jpg",
+    "target_path": "file:///C:/Users/Hollow/Desktop/666.jpg",
+    "mime_type": "",
+    "total_bytes": 103552,
+    "start_time": "2026-04-13T12:38:34.615Z",
+    "end_time": "2026-04-13T12:38:34.572Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://ftp.cybox.company/index.php",
+    "target_path": "file:///C:/Users/Hollow/Downloads/courierimapsubscribed(2)",
+    "mime_type": "",
+    "total_bytes": 36,
+    "start_time": "2026-04-12T16:52:59.81Z",
+    "end_time": "2026-04-12T16:52:59.81Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.microsoft.com/download/9/e/a/9eac306f-d134-4609-9c58-35d1638c2363/MediaCreationTool_22H2.exe",
+    "target_path": "file:///C:/Users/Hollow/Downloads/MediaCreationTool_22H2.exe",
+    "mime_type": "",
+    "total_bytes": 19463448,
+    "start_time": "2026-04-12T11:19:37.7Z",
+    "end_time": "2026-04-12T11:19:42.436Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/driftingblues/driftingblues7_vh.ova",
+    "target_path": "file:///C:/Users/Hollow/Downloads/driftingblues7_vh.ova",
+    "mime_type": "",
+    "total_bytes": 1348644352,
+    "start_time": "2026-04-12T11:13:30.648Z",
+    "end_time": "2026-04-12T11:24:47.223Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://dn710200.ca.archive.org/0/items/cisco-packet-tracer-900-win-64bit/CiscoPacketTracer_900_win_64bit.exe",
+    "target_path": "file:///C:/Users/Hollow/Downloads/CiscoPacketTracer_900_win_64bit.exe",
+    "mime_type": "",
+    "total_bytes": 300966272,
+    "start_time": "2026-04-12T10:40:45.778Z",
+    "end_time": "2026-04-12T10:43:54.62Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/uninvited/UnInvited.rar",
+    "target_path": "file:///C:/Users/Hollow/Downloads/UnInvited.rar",
+    "mime_type": "",
+    "total_bytes": 1544278105,
+    "start_time": "2026-04-12T10:33:59.442Z",
+    "end_time": "2026-04-12T11:02:48.064Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/nullycybersecurity/NullyCybersecurityCTF.zip",
+    "target_path": "file:///C:/Users/Hollow/Downloads/NullyCybersecurityCTF.zip",
+    "mime_type": "",
+    "total_bytes": 1473195292,
+    "start_time": "2026-04-12T10:33:38.686Z",
+    "end_time": "2026-04-12T11:02:10.587Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/foxhole/FoxHole-v1.0.1.ova",
+    "target_path": "file:///C:/Users/Hollow/Downloads/FoxHole-v1.0.1.ova",
+    "mime_type": "",
+    "total_bytes": 4100585984,
+    "start_time": "2026-04-12T10:33:13.539Z",
+    "end_time": "2026-04-12T11:09:54.101Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/ha/forensics.ova",
+    "target_path": "file:///C:/Users/Hollow/Downloads/forensics.ova",
+    "mime_type": "",
+    "total_bytes": 885285376,
+    "start_time": "2026-04-12T10:32:44.199Z",
+    "end_time": "2026-04-12T10:56:45.316Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://192.168.159.130:8080/backup.zip",
+    "target_path": "file:///C:/Users/Hollow/Downloads/backup(1).zip",
+    "mime_type": "",
+    "total_bytes": 33723,
+    "start_time": "2026-04-11T09:39:47.495Z",
+    "end_time": "2026-04-11T09:39:47.649Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://192.168.159.131/g0rmint/s3cretbackupdirect0ry/backup.zip",
+    "target_path": "file:///C:/Users/Hollow/Downloads/backup.zip",
+    "mime_type": "",
+    "total_bytes": 3747475,
+    "start_time": "2026-04-10T12:12:20.135Z",
+    "end_time": "2026-04-10T12:12:20.26Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download941.mediafire.com/3tf1607vaeygVUwNGQNMDSuJg20brNPy2dgA_mb9RtiFbKclHqThEF-gFTbGvoJQIt_ve_N1VKCrxTW2TUGaAOr2xKtjPY_kOInPEHQOtZShYo53keDMAJGae2P4PrTmT4K4_H2N4snNyTZ0gRV6IBpswVf-o9hX4THZgiTOBJh5Ndo/zdogvmd5s21k60k/g0rmint.zip",
+    "target_path": "file:///C:/Users/Hollow/Downloads/g0rmint.zip",
+    "mime_type": "",
+    "total_bytes": 874581288,
+    "start_time": "2026-04-09T16:34:39.516Z",
+    "end_time": "2026-04-09T16:44:59.287Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/callme/callme.ova.gz",
+    "target_path": "file:///C:/Users/Hollow/Downloads/callme.ova.gz",
+    "mime_type": "",
+    "total_bytes": 2962051196,
+    "start_time": "2026-04-09T16:32:52.885Z",
+    "end_time": "2026-04-09T16:58:08.461Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/driftingblues/driftingblues3.ova",
+    "target_path": "file:///C:/Users/Hollow/Downloads/driftingblues3.ova",
+    "mime_type": "",
+    "total_bytes": 505496064,
+    "start_time": "2026-04-09T16:32:49.603Z",
+    "end_time": "2026-04-09T16:33:49.339Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.vulnhub.com/bluesmoke/Bluesmoke.ova",
+    "target_path": "file:///C:/Users/Hollow/Downloads/Bluesmoke.ova",
+    "mime_type": "",
+    "total_bytes": 1024458240,
+    "start_time": "2026-04-09T16:32:46.295Z",
+    "end_time": "2026-04-09T16:41:41.511Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://www.m3tekic.com/filedown.php?file=MT3182_PDS_R0+11_20200416_web.pdf\u0026site=dXBsb2FkLzIwMjIvMDIvMjAyMjAyMTUxNDUxMTkxMTUucGRm",
+    "target_path": "file:///C:/Users/Hollow/Downloads/MT3182_PDS_R0_11_20200416_web.pdf",
+    "mime_type": "",
+    "total_bytes": 217977,
+    "start_time": "2026-04-09T16:10:48.828Z",
+    "end_time": "2026-04-09T16:10:51.086Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://psz.pl/plugins/editors/jckeditor/plugins/jtreelink/dialogs/links.php",
+    "target_path": "file:///C:/Users/Hollow/Downloads/links.php",
+    "mime_type": "",
+    "total_bytes": 7357,
+    "start_time": "2026-04-09T15:52:08.315Z",
+    "end_time": "2026-04-09T15:52:08.452Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://td.telegram.org/tx64/tsetup-x64.6.7.5.exe",
+    "target_path": "file:///C:/Users/Hollow/Downloads/tsetup-x64.6.7.5.exe",
+    "mime_type": "",
+    "total_bytes": 51288768,
+    "start_time": "2026-04-09T13:26:27.692Z",
+    "end_time": "2026-04-09T13:28:18.442Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/23216272/198a1615-fcfc-4230-ac15-7128ab67e3f6?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-09T13%3A02%3A20Z\u0026rscd=attachment%3B+filename%3DGit-2.53.0.2-64-bit.exe\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-09T12%3A01%3A53Z\u0026ske=2026-04-09T13%3A02%3A20Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=%2FKLa1l2p6Aqu1SZt%2BK8xSRa7V7DTiZMe1IqZryAn7Gc%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NTczODA2MCwibmJmIjoxNzc1NzM2MjYwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.7XX6WTak5JcsN1-Rzs2l-hLgiLS37xmj_I_q-9jet0Y\u0026response-content-disposition=attachment%3B%20filename%3DGit-2.53.0.2-64-bit.exe\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///C:/Users/Hollow/Downloads/Git-2.53.0.2-64-bit.exe",
+    "mime_type": "",
+    "total_bytes": 64564304,
+    "start_time": "2026-04-09T12:04:22.246Z",
+    "end_time": "2026-04-09T12:04:30.278Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://dl.google.com/go/go1.26.2.windows-amd64.msi",
+    "target_path": "file:///C:/Users/Hollow/Downloads/go1.26.2.windows-amd64.msi",
+    "mime_type": "",
+    "total_bytes": 62242816,
+    "start_time": "2026-04-08T18:00:20.468Z",
+    "end_time": "2026-04-08T18:01:01.737Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/am0nsec/HellsGate/zip/refs/heads/master",
+    "target_path": "file:///C:/Users/Hollow/Downloads/HellsGate-master.zip",
+    "mime_type": "",
+    "total_bytes": 354919,
+    "start_time": "2026-04-08T17:16:57.874Z",
+    "end_time": "2026-04-08T17:16:58.619Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/537996647/90a2184d-a19b-4b19-87dc-9f6dc86a2640?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-08T17%3A25%3A41Z\u0026rscd=attachment%3B+filename%3DPE-bear_0.7.1_qt6.8_x64_win_vs22.zip\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-08T16%3A25%3A16Z\u0026ske=2026-04-08T17%3A25%3A41Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=GC1x6nK3JoHUBkmE6rHZ7X%2FV3LufMrWAVpukGtpoeLo%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NTY2ODM1NywibmJmIjoxNzc1NjY2NTU3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.WKIE-QWGfwqFHyhspkq9AR9rOT1y5hxwAoZXxveztDM\u0026response-content-disposition=attachment%3B%20filename%3DPE-bear_0.7.1_qt6.8_x64_win_vs22.zip\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///C:/Users/Hollow/Downloads/PE-bear_0.7.1_qt6.8_x64_win_vs22.zip",
+    "mime_type": "",
+    "total_bytes": 11350455,
+    "start_time": "2026-04-08T16:42:38.478Z",
+    "end_time": "2026-04-08T16:42:39.219Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://static.root-me.org/cracking/ch72/ch72.zip",
+    "target_path": "file:///C:/Users/Hollow/Downloads/ch72.zip",
+    "mime_type": "",
+    "total_bytes": 7662,
+    "start_time": "2026-04-08T15:04:31.414Z",
+    "end_time": "2026-04-08T15:04:32.143Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://static.root-me.org/cracking/ch17/ch17.exe",
+    "target_path": "file:///C:/Users/Hollow/Downloads/ch17.exe",
+    "mime_type": "",
+    "total_bytes": 8704,
+    "start_time": "2026-04-08T14:51:43.442Z",
+    "end_time": "2026-04-08T14:51:43.679Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://static.root-me.org/cracking/ch15/ch15.exe",
+    "target_path": "file:///C:/Users/Hollow/Downloads/ch15.exe",
+    "mime_type": "",
+    "total_bytes": 11776,
+    "start_time": "2026-04-08T14:48:00.59Z",
+    "end_time": "2026-04-08T14:48:01.091Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/220563481/58a23f80-81a0-11ea-9f6b-7ea9d660e425?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-08T15%3A14%3A16Z\u0026rscd=attachment%3B+filename%3DSilent_Pass.exe\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-08T14%3A13%3A30Z\u0026ske=2026-04-08T15%3A14%3A16Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=7GyNJ0YTS9PZm4MstOSYuHusj30JNX0MYW2PQqh%2Bzb0%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NTY1ODM0MSwibmJmIjoxNzc1NjU4MDQxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.o0Uk1dgfr5ivWvYFOIfA0OlFqCjYcRhIDRO3e2WSZDQ\u0026response-content-disposition=attachment%3B%20filename%3DSilent_Pass.exe\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///C:/Users/Hollow/Downloads/Silent_Pass.exe",
+    "mime_type": "",
+    "total_bytes": 6628705,
+    "start_time": "2026-04-08T14:20:42.537Z",
+    "end_time": "2026-04-08T14:21:02.044Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/538240496/9121fcfb-3fc7-4e5b-ae0f-c4516aedecd7?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-08T14%3A57%3A17Z\u0026rscd=attachment%3B+filename%3Dbw-dump.exe\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-08T13%3A56%3A50Z\u0026ske=2026-04-08T14%3A57%3A17Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=lr9p55E9RzTCXF6i5xTDj7nGGHPQQlaicbzzNsp9Mpg%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NTY1ODI0OCwibmJmIjoxNzc1NjU3OTQ4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.x5hVfRBZQREtL_X7QBGyTcWtfqecry9GeHHeaUSN8cQ\u0026response-content-disposition=attachment%3B%20filename%3Dbw-dump.exe\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///C:/Users/Hollow/Downloads/bw-dump.exe",
+    "mime_type": "",
+    "total_bytes": 2197504,
+    "start_time": "2026-04-08T14:19:09.503Z",
+    "end_time": "2026-04-08T14:19:11.982Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://candidaturesbac.men.gov.ma/DemandeCandidature/TelechargerConvocation?hashId=2y8ZGCohqfImqjY35hJNwg%3D%3D",
+    "target_path": "file:///C:/Users/Hollow/Downloads/ConvocationEducationPhysique.pdf",
+    "mime_type": "",
+    "total_bytes": 479519,
+    "start_time": "2026-04-08T13:14:12.037Z",
+    "end_time": "2026-04-08T13:14:12.296Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/hackirby/skuld/zip/refs/heads/main",
+    "target_path": "file:///C:/Users/Hollow/Downloads/skuld-main.zip",
+    "mime_type": "",
+    "total_bytes": 437509,
+    "start_time": "2026-04-07T18:13:39.951Z",
+    "end_time": "2026-04-07T18:13:40.714Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/214758970/abb6b800-ed61-11e9-9577-6a914defba50?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-07T18%3A33%3A23Z\u0026rscd=attachment%3B+filename%3Dsocatx64.exe\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-07T17%3A32%3A45Z\u0026ske=2026-04-07T18%3A33%3A23Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=T6psvCk8tfaDwKMkL%2Bl2m4YQopTiFPTyjs%2BMvwCsF6Y%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NTU4NTAxNywibmJmIjoxNzc1NTg0NzE3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.dY7sJ8I_vZF_BDOnzVAxHWtrnlhuPZWyXmYUDn6M3T4\u0026response-content-disposition=attachment%3B%20filename%3Dsocatx64.exe\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///C:/Users/Hollow/Downloads/socatx64.exe",
+    "mime_type": "",
+    "total_bytes": 494906,
+    "start_time": "2026-04-07T17:58:37.709Z",
+    "end_time": "2026-04-07T17:58:38.203Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://www.python.org/ftp/python/3.15.0/python-3.15.0a7-amd64.exe",
+    "target_path": "file:///C:/Users/Hollow/Downloads/python-3.15.0a7-amd64.exe",
+    "mime_type": "",
+    "total_bytes": 42099456,
+    "start_time": "2026-04-07T17:21:10.24Z",
+    "end_time": "2026-04-07T17:21:13.805Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://www.python.org/ftp/python/pymanager/python-manager-26.1.msix",
+    "target_path": "file:///C:/Users/Hollow/Downloads/python-manager-26.1.msix",
+    "mime_type": "",
+    "total_bytes": 46228058,
+    "start_time": "2026-04-07T17:20:48.136Z",
+    "end_time": "2026-04-07T17:20:51.343Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://cmess.thm/feed",
+    "target_path": "file:///C:/Users/Hollow/Downloads/feed",
+    "mime_type": "",
+    "total_bytes": 735,
+    "start_time": "2026-04-07T17:12:25.768Z",
+    "end_time": "2026-04-07T17:12:25.77Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/26639347/d1fd87a9-3876-4956-9067-5673519e25f6?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-07T17%3A49%3A30Z\u0026rscd=attachment%3B+filename%3Dgobuster_Windows_x86_64.zip\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-07T16%3A48%3A33Z\u0026ske=2026-04-07T17%3A49%3A30Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=ohSVoBIfNXTWe58Ee7si9LKxZGpvjUvBw322pHLRbuk%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NTU4MTUxOCwibmJmIjoxNzc1NTgxMjE4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.aJeT9llSuYdtW9dmgZyzaIe977BLTH5kWULEXEPBiK8\u0026response-content-disposition=attachment%3B%20filename%3Dgobuster_Windows_x86_64.zip\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///C:/Users/Hollow/Downloads/gobuster_Windows_x86_64.zip",
+    "mime_type": "",
+    "total_bytes": 3944853,
+    "start_time": "2026-04-07T17:00:19.616Z",
+    "end_time": "2026-04-07T17:00:20.385Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/danielmiessler/SecLists/zip/refs/heads/master",
+    "target_path": "file:///C:/Users/Hollow/Downloads/SecLists-master.zip",
+    "mime_type": "",
+    "total_bytes": 0,
+    "start_time": "2026-04-07T16:59:58.986Z",
+    "end_time": "2026-04-07T17:06:07.291Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://packages.openvpn.net/connect/v3/openvpn-connect-3.8.0.4528_signed.msi",
+    "target_path": "file:///C:/Users/Hollow/Downloads/openvpn-connect-3.8.0.4528_signed.msi",
+    "mime_type": "",
+    "total_bytes": 115945472,
+    "start_time": "2026-04-07T16:43:17.859Z",
+    "end_time": "2026-04-07T16:43:28.097Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://nmap.org/dist/nmap-7.99-setup.exe",
+    "target_path": "file:///C:/Users/Hollow/Downloads/nmap-7.99-setup.exe",
+    "mime_type": "",
+    "total_bytes": 36960320,
+    "start_time": "2026-04-07T16:43:04.92Z",
+    "end_time": "2026-04-07T16:43:45.632Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "http://burp/cert",
+    "target_path": "file:///C:/Users/Hollow/Downloads/cacert.der",
+    "mime_type": "",
+    "total_bytes": 987,
+    "start_time": "2026-04-07T14:17:02.993Z",
+    "end_time": "2026-04-07T14:17:03.923Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://download.sublimetext.com/sublime_text_build_4200_x64_setup.exe",
+    "target_path": "file:///C:/Users/Hollow/Downloads/sublime_text_build_4200_x64_setup.exe",
+    "mime_type": "",
+    "total_bytes": 16200128,
+    "start_time": "2026-04-07T13:47:39.328Z",
+    "end_time": "2026-04-07T13:47:46.811Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/topscoder/nuclei-wordfence-cve/zip/refs/heads/main",
+    "target_path": "file:///C:/Users/Hollow/Downloads/nuclei-wordfence-cve-main.zip",
+    "mime_type": "",
+    "total_bytes": 78356465,
+    "start_time": "2026-04-07T13:35:19.991Z",
+    "end_time": "2026-04-07T13:36:02.311Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/45279022/b1c8c268-78f9-47be-a491-9f75b06d3d1e?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-07T12%3A43%3A20Z\u0026rscd=attachment%3B+filename%3Dbinaryninja_free_win64.exe\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-07T11%3A42%3A49Z\u0026ske=2026-04-07T12%3A43%3A20Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=hf%2BE4kVVs5ZaKyDfec0lC%2Fl9U2NmvOmfHGkddTg%2BdME%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NTU2NjE0NiwibmJmIjoxNzc1NTYyNTQ2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.oHj1cpKezyhGTVIt9v6EKUhc5nuJ_6Cgfr4KJN69RQk\u0026response-content-disposition=attachment%3B%20filename%3Dbinaryninja_free_win64.exe\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///C:/Users/Hollow/Downloads/binaryninja_free_win64.exe",
+    "mime_type": "",
+    "total_bytes": 423156592,
+    "start_time": "2026-04-07T11:49:10.405Z",
+    "end_time": "2026-04-07T11:50:57.44Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://sf-eu-introserv-1.dl.sourceforge.net/project/x64dbg/snapshots/snapshot_2025-08-19_19-40.zip?viasf=1",
+    "target_path": "file:///C:/Users/Hollow/Downloads/snapshot_2025-08-19_19-40.zip",
+    "mime_type": "",
+    "total_bytes": 32261859,
+    "start_time": "2026-04-07T11:48:51.405Z",
+    "end_time": "2026-04-07T11:49:02.41Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://images.pexels.com/photos/1287142/pexels-photo-1287142.jpeg?cs=srgb\u0026dl=pexels-eberhardgross-1287142.jpg\u0026fm=jpg",
+    "target_path": "file:///C:/Users/Hollow/Downloads/pexels-eberhardgross-1287142.jpg",
+    "mime_type": "",
+    "total_bytes": 647069,
+    "start_time": "2026-04-07T10:49:54.524Z",
+    "end_time": "2026-04-07T10:49:54.391Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/Maldev-Academy/HookingLsassForCredentials/zip/refs/heads/main",
+    "target_path": "file:///C:/Users/Hollow/Downloads/HookingLsassForCredentials-main.zip",
+    "mime_type": "",
+    "total_bytes": 44104,
+    "start_time": "2026-04-07T10:25:27.091Z",
+    "end_time": "2026-04-07T10:25:27.242Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/Maldev-Academy/RemoteTLSCallbackInjection/zip/refs/heads/main",
+    "target_path": "file:///C:/Users/Hollow/Downloads/RemoteTLSCallbackInjection-main.zip",
+    "mime_type": "",
+    "total_bytes": 9935,
+    "start_time": "2026-04-07T10:24:01.941Z",
+    "end_time": "2026-04-07T10:24:02.256Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/hake12345/DumpChromeSecrets/zip/refs/heads/main",
+    "target_path": "file:///C:/Users/Hollow/Downloads/DumpChromeSecrets-main.zip",
+    "mime_type": "",
+    "total_bytes": 4891215,
+    "start_time": "2026-04-07T10:17:50.978Z",
+    "end_time": "2026-04-07T10:17:55.892Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BC83158AE-13D0-B1F8-1067-E314124B658F%7D%26lang%3Dfr%26browser%3D3%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3D-arch_x64-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe",
+    "target_path": "file:///C:/Users/Hollow/Downloads/ChromeSetup.exe",
+    "mime_type": "",
+    "total_bytes": 11487160,
+    "start_time": "2026-04-07T10:00:45.055Z",
+    "end_time": "2026-04-07T10:00:51.135Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/Maldev-Academy/DumpChromeSecrets/zip/refs/heads/main",
+    "target_path": "file:///C:/Users/Hollow/Downloads/DumpChromeSecrets-main.zip",
+    "mime_type": "",
+    "total_bytes": 2913293,
+    "start_time": "2026-04-07T09:14:32.186Z",
+    "end_time": "2026-04-07T09:14:33.586Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/projectdiscovery/nuclei-templates/zip/refs/heads/main",
+    "target_path": "file:///C:/Users/Hollow/Downloads/nuclei-templates-main.zip",
+    "mime_type": "",
+    "total_bytes": 17767344,
+    "start_time": "2026-04-07T09:05:47.609Z",
+    "end_time": "2026-04-07T09:05:55.731Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/127519518/71fda060-41a2-48ad-8f7b-2b7c2c81699f?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-07T10%3A00%3A13Z\u0026rscd=attachment%3B+filename%3Dsubfinder_2.13.0_windows_amd64.zip\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-07T08%3A59%3A41Z\u0026ske=2026-04-07T10%3A00%3A13Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=i8Xk2tGgf%2F%2Bnv7TSpM%2FdTz0WkHtUg6MS3e7KgEZZPEc%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NTU1NDUxNiwibmJmIjoxNzc1NTUyNzE2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.uxl0cASSNkYEaLgN3GnAeQ0dw7D4nwEiIP6P2gAXen0\u0026response-content-disposition=attachment%3B%20filename%3Dsubfinder_2.13.0_windows_amd64.zip\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///C:/Users/Hollow/Downloads/subfinder_2.13.0_windows_amd64.zip",
+    "mime_type": "",
+    "total_bytes": 11604858,
+    "start_time": "2026-04-07T09:05:17.161Z",
+    "end_time": "2026-04-07T09:05:17.948Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/252813491/e0dbd6f2-78fe-42d2-bc9d-b6120326bcad?sp=r\u0026sv=2018-11-09\u0026sr=b\u0026spr=https\u0026se=2026-04-07T10%3A00%3A01Z\u0026rscd=attachment%3B+filename%3Dnuclei_3.7.1_windows_amd64.zip\u0026rsct=application%2Foctet-stream\u0026skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0\u0026sktid=398a6654-997b-47e9-b12b-9515b896b4de\u0026skt=2026-04-07T08%3A59%3A26Z\u0026ske=2026-04-07T10%3A00%3A01Z\u0026sks=b\u0026skv=2018-11-09\u0026sig=cIgsZEJWu%2FdiW12wOr5SdweDWJ3Tyn5NQuYfLqwFARw%3D\u0026jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NTU1NDQ3NCwibmJmIjoxNzc1NTUyNjc0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.jfGpeQgNehDzVQ7nLX1raOVCIMq5DX3lqa9EJaKmoAw\u0026response-content-disposition=attachment%3B%20filename%3Dnuclei_3.7.1_windows_amd64.zip\u0026response-content-type=application%2Foctet-stream",
+    "target_path": "file:///C:/Users/Hollow/Downloads/nuclei_3.7.1_windows_amd64.zip",
+    "mime_type": "",
+    "total_bytes": 40800835,
+    "start_time": "2026-04-07T09:04:35.158Z",
+    "end_time": "2026-04-07T09:04:37.817Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://codeload.github.com/Edd13Mora/DumpBrowserSecrets/zip/refs/heads/main",
+    "target_path": "file:///C:/Users/Hollow/Downloads/DumpBrowserSecrets-main.zip",
+    "mime_type": "",
+    "total_bytes": 2719758,
+    "start_time": "2026-04-07T08:58:39.059Z",
+    "end_time": "2026-04-07T08:58:40.323Z"
+  },
+  {
+    "browser": "Firefox",
+    "profile": "f24ffng3.default-release",
+    "url": "https://dw60.malavida.com/dwn/92333ebe10c412efa6721a796519fde618ac36ac91a5bb00b9f990554136f54f/VMware-Workstation-Full-25H2-24995812.exe",
+    "target_path": "file:///C:/Users/Hollow/Downloads/VMware-Workstation-Full-25H2-24995812.exe",
+    "mime_type": "",
+    "total_bytes": 291114376,
+    "start_time": "2026-04-07T08:48:03.267Z",
+    "end_time": "2026-04-07T08:52:11.658Z"
+  }
+]

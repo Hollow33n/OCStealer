@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <style>text{font-family:Arial,Helvetica,sans-serif;font-size:12px;}</style>
+  <rect x="30" y="20" rx="8" ry="8" width="160" height="40" fill="#f3f4f6" stroke="#333"/>
+  <text x="50" y="45">CLI (root)</text>
+
+  <rect x="240" y="20" rx="8" ry="8" width="160" height="40" fill="#eef2ff" stroke="#333"/>
+  <text x="270" y="45">Flag parsing</text>
+
+  <rect x="450" y="20" rx="8" ry="8" width="200" height="40" fill="#e6ffed" stroke="#333"/>
+  <text x="490" y="45">PickBrowsers() discovery</text>
+
+  <rect x="440" y="100" rx="8" ry="8" width="220" height="120" fill="#fff7ed" stroke="#333"/>
+  <text x="460" y="125">For each Browser/Profile</text>
+  <text x="460" y="145">• NewSession() (temp dir)</text>
+  <text x="460" y="165">• Acquire(source files + WAL/SHM)</text>
+  <text x="460" y="185">• getMasterKeys() (chain retriever)</text>
+
+  <rect x="240" y="260" rx="8" ry="8" width="420" height="40" fill="#fff0f6" stroke="#333"/>
+  <text x="260" y="285">Per-category extractors → Writer.Add(browser, profile, results)</text>
+
+  <rect x="240" y="320" rx="8" ry="8" width="420" height="40" fill="#f0f9ff" stroke="#333"/>
+  <text x="320" y="345">Writer.Write() → per-category files (+ optional ZIP)</text>
+
+  <!-- arrows -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#333" />
+    </marker>
+  </defs>
+  <line x1="190" y1="40" x2="240" y2="40" stroke="#333" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="400" y1="40" x2="450" y2="40" stroke="#333" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="550" y1="60" x2="550" y2="100" stroke="#333" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="550" y1="220" x2="350" y2="260" stroke="#333" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="350" y1="300" x2="350" y2="320" stroke="#333" stroke-width="2" marker-end="url(#arrow)" />
+</svg>

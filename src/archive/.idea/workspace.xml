@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd4e5f25-ddb5-47b4-abc1-1660218dff96" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/OctoberStealer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/OctoberStealer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/level.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/logger.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/logger_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/cookie_editor.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/csv.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/formatter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/json.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/reflect.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/reflect_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/row.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="281" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.289700044646808" />
+      <entry key="MS500" value="3.167904356029104" />
+      <entry key="S2" value="7.428505071184396" />
+      <entry key="S5" value="13.443507963543691" />
+      <entry key="S10" value="25.11824445821634" />
+      <entry key="S30" value="58.89950901481125" />
+      <entry key="S60" value="78.81450814027019" />
+      <entry key="M2" value="92.60038346901861" />
+      <entry key="M5" value="115.66568087337096" />
+      <entry key="M10" value="187.95768160553504" />
+      <entry key="M15" value="280.9765927667586" />
+      <entry key="M30" value="531.1339505993309" />
+      <entry key="H1" value="832.8746068491687" />
+      <entry key="H2" value="1092.4727001039785" />
+      <entry key="H4" value="1268.5994975567373" />
+      <entry key="D1" value="1447.9134933701303" />
+      <entry key="W1" value="1482.1794245459014" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1689303912216928" />
+      <entry key="MS500" value="3.1088824949634213" />
+      <entry key="S2" value="7.3946883786697555" />
+      <entry key="S5" value="13.419175387673297" />
+      <entry key="S10" value="25.09562924418764" />
+      <entry key="S30" value="58.88166009649204" />
+      <entry key="S60" value="78.80248536102314" />
+      <entry key="M2" value="92.59327246998318" />
+      <entry key="M5" value="115.66191205315639" />
+      <entry key="M10" value="187.9545442701795" />
+      <entry key="M15" value="280.97353590901116" />
+      <entry key="M30" value="531.1311325162061" />
+      <entry key="H1" value="832.872359722362" />
+      <entry key="H2" value="1092.471185815233" />
+      <entry key="H4" value="1268.5986007960498" />
+      <entry key="D1" value="1447.9133193591838" />
+      <entry key="W1" value="1482.1793990039841" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EnkNhbyVFEDDBnWqygBbROfPgf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Go Build.go build hack-browser-data/.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.GoLinterPluginOnboardingV2&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.GoLinterPluginStorageMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.analysis.ui.options.defaults&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hollow/Desktop/ww&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.AcpAgentsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Go Build.go build hack-browser-data/">
+    <configuration name="go build github.com/moond4rk/hackbrowserdata/cmd/OctoberStealer" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="HackBrowserData" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/moond4rk/October/cmd/OctoberStealer" />
+      <directory value="$PROJECT_DIR$" />
+      <auto_managed_config_id value="$PROJECT_DIR$/cmd/OctoberStealer" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hack-browser-data/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="HackBrowserData" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/moond4rk/hackbrowserdata/cmd/hack-browser-data" />
+      <directory value="$PROJECT_DIR$" />
+      <auto_managed_config_id value="$PROJECT_DIR$/cmd/hack-browser-data" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-72a9cf600ed8-3dd3895e5e08-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-261.25134.147" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-GO-261.25134.147" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd4e5f25-ddb5-47b4-abc1-1660218dff96" name="Changes" comment="" />
+      <created>1780821684125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780821684125</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
