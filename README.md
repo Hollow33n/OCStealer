@@ -152,5 +152,11 @@ func main() {
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hollow33n/OCStealer/main/tom" alt="OCStealer Screenshot" width="250">
+  <img src="https://raw.githubusercontent.com/Hollow33n/OCStealer/main/tom.png" alt="OCStealer Screenshot" width="250">
+</p>
+
+<p align="center">
+  <a href="YOUR_PAYPAL_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20beer-%F0%9F%8D%BA-orange?style=for-the-badge" alt="Buy me a beer" height="40">
+  </a>
 </p>
