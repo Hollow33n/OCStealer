@@ -3,8 +3,7 @@
 
 ## Overview
 October is a Go-based malware for extracting and decrypting browser data across Windows, macOS, and Linux. It supports multiple browsers (Chromium, Firefox, Safari) and retrieves passwords, cookies, bookmarks, history, downloads, extensions, and stored credentials and using Discord as a C2
-
-![OCStealer Screenshot](contrlFlow.png)
+![Control Flow Diagram](https://raw.githubusercontent.com/Hollow33n/OCStealer/main/controlFlow.png)
 
 ## Features
 - **Multi-browser support**: Chrome, Edge, Chromium, Firefox, Safari, Brave, Vivaldi
