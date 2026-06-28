@@ -133,7 +133,7 @@ int main() {
 }
 ```
 
-## important : default args
+## important : default args in main.go file
 
 ``` bash
 func main() {
