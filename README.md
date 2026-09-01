@@ -153,12 +153,4 @@ func main() {
 	}
 ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hollow33n/OCStealer/main/tom.png" alt="OCStealer Screenshot" width="250">
-</p>
 
-<p align="center">
-  <a href="https://www.paypal.com/paypalme/Hollow33n" target="_blank" title="Buy Me a Beer">
-    <img src="https://iili.io/JoQ0zN9.md.png" alt="buymeacoffee-orange-badge" style="width: 140px;">
-  </a>
-</p>
